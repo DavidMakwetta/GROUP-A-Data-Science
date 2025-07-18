@@ -65,8 +65,8 @@ To address our research objectives, we employed a combination of exploratory dat
   </tr>
 </table> 
 
-| Acknowledgments                                                                                   |
-| Name                      | GitHub Profile                                                        |
+                                                                                  |
+| Contributors              | GitHub Profile                                                        |
 |---------------------------|-----------------------------------------------------------------------|
 | Nabasumba Suzan           | [Nabasumba-Suzan](https://github.com/Nabasumba-Suzan)                 |
 | Biira Wishes Tricia       | [biirawishes/Biira](https://github.com/biirawishes/Biira)             |
