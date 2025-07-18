@@ -73,7 +73,7 @@ To address our research objectives, we employed a combination of exploratory dat
 | Ainembabazi Kiiza Davis   | [AINEMBABAZI-KIIZA-DAVIS](https://github.com/AINEMBABAZI-KIIZA-DAVIS) |
 | David Makwetta            | [DavidMakwetta](https://github.com/DavidMakwetta)                     |
 
-
+## Tech Stack Used
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
