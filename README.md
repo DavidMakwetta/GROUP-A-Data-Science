@@ -54,5 +54,22 @@ To address our research objectives, we employed a combination of exploratory dat
 </p>
 
 <img src="screenshots/Screenshot 2025-07-18 214819.png" width="500"/>
-<img src="screenshots/Screenshot 2025-07-18 214819.png" width="500"/>
+<img src="screenshots/Screenshot 2025-07-18 214905.png" width="500"/>
+<img src="screenshots/Screenshot 2025-07-18 215021.png" width="500"/>
+<img src="screenshots/Screenshot 2025-07-18 215040.png" width="500"/>
+<img src="screenshots/Screenshot 2025-07-18 215256.png" width="500"/>
 
+<table>
+  <tr>
+    <td><img src="screenshots/Screenshot 2025-07-18 214819.png" width="300"/></td>
+    <td><img src="screenshots/Screenshot 2025-07-18 214905.png" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Screenshot 2025-07-18 215021.png" width="300"/></td>
+    <td><img src="screenshots/Screenshot 2025-07-18 215040.png" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Screenshot 2025-07-18 215256.png" width="300"/></td>
+    <td></td>
+  </tr>
+</table>
