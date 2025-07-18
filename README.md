@@ -7,8 +7,8 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-Notebook-yellow?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
+<img src="https://img.shields.io/badge/-Introduction-orange?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/%20-yellow?style=for-the-badge"/>
 <h2  align="left" > Introduction  </h2>
 <p>Life expectancy is a fundamental indicator of global health and well-being, reflecting the overall health status, socio-economic conditions,
 and quality of life within a nation. Understanding the different factors that influence it is crucial for policymakers, 
