@@ -17,3 +17,6 @@ conduct a detailed analysis of life expectancy trends and drivers across the glo
 </p>
 
 <h2>Project Goal</h2>
+<p>As Group A, our primary goal was to thoroughly investigate and compare the dynamics of life expectancy in both developed and developing countries. 
+This involved identifying the key factors contributing to its variation, exploring its relationships with economic prosperity, and building a model to predict life expectancy.
+</p>
