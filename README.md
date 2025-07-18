@@ -32,17 +32,17 @@ This involved identifying the key factors contributing to its variation, explori
     <strong>Identifying Key Determinants of Life Expectancy:</strong> 
     To identify and quantify the most significant health, economic, and social factors (e.g., adult mortality, infant deaths, schooling, income composition) that statistically influence life expectancy.
   </li>
-
+<br>
   <li>
     <strong>Impact of Life Expectancy on GDP:</strong> 
     To assess how changes in life expectancy influence a country's Gross Domestic Product (GDP), thereby understanding the economic implications of a healthier, longer-living population.
   </li>
-
+<br>
   <li>
     <strong>Cross-Country Life Expectancy Comparison:</strong> 
     To conduct a comparative analysis of life expectancy across different countries, highlighting disparities and commonalities within and between the "Developed" and "Developing" country categories.
   </li>
-
+<br>
   <li>
     <strong>Effect of Specific Health Interventions:</strong> 
     To determine the effect of specific health interventions (e.g., Hepatitis B, Polio, Diphtheria) and overall healthcare expenditure on improvements in life expectancy.
