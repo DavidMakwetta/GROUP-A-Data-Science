@@ -15,3 +15,5 @@ public health initiatives, and sustainable development goals.
 This project leverages a comprehensive dataset encompassing various health, economic, social determinants and demographic indicators to 
 conduct a detailed analysis of life expectancy trends and drivers across the globe.
 </p>
+
+<h2>Project Goal</h2>
