@@ -54,7 +54,7 @@ To address our research objectives, we employed a combination of exploratory dat
 </p>
 
 <h2 align="left" >Exploratory Data Analysis (screenshots)</h2>
-<table align="center">
+<table align="left">
   <tr>
     <td><img src="screenshots/Screenshot 2025-07-18 214819.png" width="300"/></td>
     <td><img src="screenshots/Screenshot 2025-07-18 214905.png" width="300"/></td>
