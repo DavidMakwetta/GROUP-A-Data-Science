@@ -1,5 +1,5 @@
-<h1 align="center"> GROUP-A DATA SCIENCE PROJECCT </h1>
-<h1 align="center">GLOBAL LIFE EXPECTANCY ANALYSIS: DEVELOPED VS DEVELOPING COUNTRIES</h1>
+<h2 align="center"> GROUP-A DATA SCIENCE PROJECCT </h2>
+<h2 align="center">GLOBAL LIFE EXPECTANCY ANALYSIS: DEVELOPED VS DEVELOPING COUNTRIES</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8-blue?style=for-the-badge&logo=python&logoColor=white"/>
