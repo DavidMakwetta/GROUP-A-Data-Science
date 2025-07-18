@@ -91,7 +91,7 @@ To address our research objectives, we employed a combination of exploratory dat
   </tr>
   <tr>
     <td>David Makwetta</td>
-    <td><a href="https://www.who.int/">who.int</a></td>
+    <td><a href="https://github.com/DavidMakwetta">https://github.com/DavidMakwetta</a></td>
   </tr>
 </table>
 
