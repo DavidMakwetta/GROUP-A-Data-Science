@@ -96,6 +96,6 @@ To address our research objectives, we employed a combination of exploratory dat
 </table>
 
 
-<h2>Tech Stack Used </h2>
+
 
 
