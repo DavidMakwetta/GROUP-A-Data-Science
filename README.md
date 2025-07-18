@@ -95,3 +95,14 @@ To address our research objectives, we employed a combination of exploratory dat
   </tr>
 </table>
 
+<h2>Tech Stack Used </h2>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=flat-square&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-2D8CB0?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+</p>
+
