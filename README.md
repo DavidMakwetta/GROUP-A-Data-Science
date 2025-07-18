@@ -53,12 +53,6 @@ This involved identifying the key factors contributing to its variation, explori
 To address our research objectives, we employed a combination of exploratory data analysis (EDA) and comparative analysis techniques. This involved cleaning and preparing the dataset, utilizing visualizations to reveal distinct patterns and influencing factors, and subsequently building a machine learning model
 </p>
 
-<img src="screenshots/Screenshot 2025-07-18 214819.png" width="500"/>
-<img src="screenshots/Screenshot 2025-07-18 214905.png" width="500"/>
-<img src="screenshots/Screenshot 2025-07-18 215021.png" width="500"/>
-<img src="screenshots/Screenshot 2025-07-18 215040.png" width="500"/>
-<img src="screenshots/Screenshot 2025-07-18 215256.png" width="500"/>
-
 <table>
   <tr>
     <td><img src="screenshots/Screenshot 2025-07-18 214819.png" width="300"/></td>
