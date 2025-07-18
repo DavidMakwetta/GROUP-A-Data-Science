@@ -71,7 +71,6 @@ To address our research objectives, we employed a combination of exploratory dat
     <th>Name</th>
     <th>GitHub Profile</th>
   </tr>
-
  <tr>
     <td>Nabasumba Suzan</td>
     <td><a href="https://github.com/Nabasumba-Suzan">https://github.com/Nabasumba-Suzan</a></td>
@@ -95,7 +94,7 @@ To address our research objectives, we employed a combination of exploratory dat
   </tr>
 </table>
 
-<br>
+
 <h2>Tech Stack Used </h2>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
