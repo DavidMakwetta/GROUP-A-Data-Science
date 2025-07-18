@@ -72,7 +72,7 @@ To address our research objectives, we employed a combination of exploratory dat
     <td><img src="screenshots/Screenshot 2025-07-18 215256.png" width="300"/></td>
     <td><img src="screenshots/Screenshot 2025-07-18 215040.png" width="300"/></td>
   </tr>
-</table> <br><br>  <br> <br> <br><br> <br><br> <br><br>  <br><br>  <br> <br><br>
+</table> <br><br>  <br> <br> <br><br> <br><br> <br><br>  <br><br>  <br> <br><br>  <br><br>
 <br>
 
 ## License
