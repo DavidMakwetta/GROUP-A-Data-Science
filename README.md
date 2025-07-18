@@ -48,3 +48,6 @@ This involved identifying the key factors contributing to its variation, explori
     To determine the effect of specific health interventions (e.g., Hepatitis B, Polio, Diphtheria) and overall healthcare expenditure on improvements in life expectancy.
   </li>
 </ul>
+
+<h2>Methodology</h2>
+
