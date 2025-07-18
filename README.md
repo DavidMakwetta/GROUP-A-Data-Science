@@ -65,35 +65,15 @@ To address our research objectives, we employed a combination of exploratory dat
   </tr>
 </table>
 
+## Acknowledgments
 
-<h2 align="left">Acknowledgments</h2>
-<table  align = "left">
-  <tr>
-    <th>Name</th>
-    <th>GitHub Profile</th>
-  </tr>
- <tr>
-    <td>Nabasumba Suzan</td>
-    <td><a href="https://github.com/Nabasumba-Suzan">https://github.com/Nabasumba-Suzan</a></td>
-  </tr>
-  
-  <tr>
-    <td>Biira Wishes Tricia</td>
-    <td><a href="https://github.com/biirawishes/Biira">https://github.com/biirawishes/Biira</a></td>
-  </tr>
-  <tr>
-    <td>Jonathan Tusiime</td>
-    <td><a href="https://github.com/Tusiime-J">https://github.com/Tusiime-J</a></td>
-  </tr>
-  <tr>
-    <td>Ainembabazi Kiiza Davis</td>
-    <td><a href="https://github.com/AINEMBABAZI-KIIZA-DAVIS">  https://github.com/AINEMBABAZI-KIIZA-DAVIS</a></td>
-  </tr>
-  <tr>
-    <td>David Makwetta</td>
-    <td><a href="https://github.com/DavidMakwetta">https://github.com/DavidMakwetta</a></td>
-  </tr>
-</table>
+| Name                      | GitHub Profile                                                        |
+|---------------------------|-----------------------------------------------------------------------|
+| Nabasumba Suzan           | [Nabasumba-Suzan](https://github.com/Nabasumba-Suzan)                 |
+| Biira Wishes Tricia       | [biirawishes/Biira](https://github.com/biirawishes/Biira)             |
+| Jonathan Tusiime          | [Tusiime-J](https://github.com/Tusiime-J)                             |
+| Ainembabazi Kiiza Davis   | [AINEMBABAZI-KIIZA-DAVIS](https://github.com/AINEMBABAZI-KIIZA-DAVIS) |
+| David Makwetta            | [DavidMakwetta](https://github.com/DavidMakwetta)                     |
 
 
 
