@@ -65,7 +65,7 @@ To address our research objectives, we employed a combination of exploratory dat
   </tr>
 </table> 
 
-                                                                                  |
+
 | Contributors              | GitHub Profile                                                        |
 |---------------------------|-----------------------------------------------------------------------|
 | Nabasumba Suzan           | [Nabasumba-Suzan](https://github.com/Nabasumba-Suzan)                 |
