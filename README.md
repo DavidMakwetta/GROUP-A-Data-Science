@@ -65,26 +65,33 @@ To address our research objectives, we employed a combination of exploratory dat
   </tr>
 </table>
 
-<table>
+<h2 align="center" >Acknowledgments</h2>
+<table  align="center">
   <tr>
     <th>Name</th>
     <th>GitHub Profile</th>
-    <th>Role</th>
+  </tr>
+
+ <tr>
+    <td>Nabasumba Suzan</td>
+    <td><a href="https://github.com/Nabasumba-Suzan">https://github.com/Nabasumba-Suzan</a></td>
+  </tr>
+  
+  <tr>
+    <td>Biira Wishes Tricia</td>
+    <td><a href="https://github.com/biirawishes/Biira">https://github.com/biirawishes/Biira</a></td>
+  </tr>
+  <tr>
+    <td>Jonathan Tusiime</td>
+    <td><a href="https://github.com/Tusiime-J">https://github.com/Tusiime-J</a></td>
+  </tr>
+  <tr>
+    <td>Ainembabazi Kiiza Davis</td>
+    <td><a href="https://github.com/AINEMBABAZI-KIIZA-DAVIS">  https://github.com/AINEMBABAZI-KIIZA-DAVIS</a></td>
   </tr>
   <tr>
     <td>David Makwetta</td>
-    <td><a href="https://github.com/DavidMakwetta">github.com/DavidMakwetta</a></td>
-    <td>Lead Developer / Analyst</td>
-  </tr>
-  <tr>
-    <td>World Health Organization</td>
     <td><a href="https://www.who.int/">who.int</a></td>
-    <td>Dataset Source</td>
-  </tr>
-  <tr>
-    <td>UN Data</td>
-    <td><a href="https://data.un.org/">data.un.org</a></td>
-    <td>Additional Data Source</td>
   </tr>
 </table>
 
