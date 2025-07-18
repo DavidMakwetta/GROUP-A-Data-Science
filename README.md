@@ -23,11 +23,11 @@ This involved identifying the key factors contributing to its variation, explori
 
 <h2>Objectives</h2>
 <ul>
-  <li  style="margin-bottom: 12 px;">
+  <li>
     <strong>Impact of Alcohol Consumption on Life Expectancy:</strong> 
     To analyze whether and how average alcohol consumption per capita relates to life expectancy across countries and years, and whether this relationship differs between developed and developing countries.
   </li>
-
+<br>
   <li>
     <strong>Identifying Key Determinants of Life Expectancy:</strong> 
     To identify and quantify the most significant health, economic, and social factors (e.g., adult mortality, infant deaths, schooling, income composition) that statistically influence life expectancy.
