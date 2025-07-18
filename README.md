@@ -1,6 +1,5 @@
-# GROUP-A DATA SCIENCE 
-
-<h1 align="center">Life Expectancy Prediction using Machine Learning</h1>
+<h1 align="center"> GROUP-A DATA SCIENCE PROJECCT </h1>
+<h1 align="center">GLOBAL LIFE EXPECTANCY ANALYSIS: DEVELOPED VS DEVELOPING COUNTRIES</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8-blue?style=for-the-badge&logo=python&logoColor=white"/>
