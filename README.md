@@ -64,3 +64,27 @@ To address our research objectives, we employed a combination of exploratory dat
     <td><img src="screenshots/Screenshot 2025-07-18 215040.png" width="300"/></td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>GitHub Profile</th>
+    <th>Role</th>
+  </tr>
+  <tr>
+    <td>David Makwetta</td>
+    <td><a href="https://github.com/DavidMakwetta">github.com/DavidMakwetta</a></td>
+    <td>Lead Developer / Analyst</td>
+  </tr>
+  <tr>
+    <td>World Health Organization</td>
+    <td><a href="https://www.who.int/">who.int</a></td>
+    <td>Dataset Source</td>
+  </tr>
+  <tr>
+    <td>UN Data</td>
+    <td><a href="https://data.un.org/">data.un.org</a></td>
+    <td>Additional Data Source</td>
+  </tr>
+</table>
+
