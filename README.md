@@ -1,4 +1,4 @@
-<h2 align="center"> GROUP-A DATA SCIENCE PROJECCT </h2>
+<h2 align="center"> GROUP-A DATA SCIENCE PROJECT </h2>
 <h2 align="center">GLOBAL LIFE EXPECTANCY ANALYSIS: DEVELOPED VS DEVELOPING COUNTRIES</h2>
 
 <p align="center">
