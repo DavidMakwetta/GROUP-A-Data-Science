@@ -20,3 +20,31 @@ conduct a detailed analysis of life expectancy trends and drivers across the glo
 <p>As Group A, our primary goal was to thoroughly investigate and compare the dynamics of life expectancy in both developed and developing countries. 
 This involved identifying the key factors contributing to its variation, exploring its relationships with economic prosperity, and building a model to predict life expectancy.
 </p>
+
+<h2>Objectives</h2>
+<ul>
+  <li>
+    <strong>Impact of Alcohol Consumption on Life Expectancy:</strong> 
+    To analyze whether and how average alcohol consumption per capita relates to life expectancy across countries and years, and whether this relationship differs between developed and developing countries.
+  </li>
+
+  <li>
+    <strong>Identifying Key Determinants of Life Expectancy:</strong> 
+    To identify and quantify the most significant health, economic, and social factors (e.g., adult mortality, infant deaths, schooling, income composition) that statistically influence life expectancy.
+  </li>
+
+  <li>
+    <strong>Impact of Life Expectancy on GDP:</strong> 
+    To assess how changes in life expectancy influence a country's Gross Domestic Product (GDP), thereby understanding the economic implications of a healthier, longer-living population.
+  </li>
+
+  <li>
+    <strong>Cross-Country Life Expectancy Comparison:</strong> 
+    To conduct a comparative analysis of life expectancy across different countries, highlighting disparities and commonalities within and between the "Developed" and "Developing" country categories.
+  </li>
+
+  <li>
+    <strong>Effect of Specific Health Interventions:</strong> 
+    To determine the effect of specific health interventions (e.g., Hepatitis B, Polio, Diphtheria) and overall healthcare expenditure on improvements in life expectancy.
+  </li>
+</ul>
