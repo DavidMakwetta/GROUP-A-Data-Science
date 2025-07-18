@@ -65,8 +65,9 @@ To address our research objectives, we employed a combination of exploratory dat
   </tr>
 </table>
 
-<h2 align="left" >Acknowledgments</h2>
-<table  align="left">
+<h2 align="center" >Acknowledgments</h2>
+
+<table  align="center">
   <tr>
     <th>Name</th>
     <th>GitHub Profile</th>
