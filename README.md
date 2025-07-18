@@ -12,7 +12,6 @@
 <p>Life expectancy is a fundamental indicator of global health and well-being, reflecting the overall health status, socio-economic conditions,
 and quality of life within a nation. Understanding the different factors that influence it is crucial for policymakers, 
 public health initiatives, and sustainable development goals. 
-
 This project leverages a comprehensive dataset encompassing various health, economic, social determinants and demographic indicators to 
 conduct a detailed analysis of life expectancy trends and drivers across the globe.
 </p>
