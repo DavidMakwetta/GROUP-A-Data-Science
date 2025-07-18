@@ -53,7 +53,7 @@ This involved identifying the key factors contributing to its variation, explori
 To address our research objectives, we employed a combination of exploratory data analysis (EDA) and comparative analysis techniques. This involved cleaning and preparing the dataset, utilizing visualizations to reveal distinct patterns and influencing factors, and subsequently building a machine learning model
 </p>
 
-<h2 align="center" >Exploratory Data Analysis (screenshots)</h2>
+<h2 align="left" >Exploratory Data Analysis (screenshots)</h2>
 <table align="center">
   <tr>
     <td><img src="screenshots/Screenshot 2025-07-18 214819.png" width="300"/></td>
@@ -65,8 +65,8 @@ To address our research objectives, we employed a combination of exploratory dat
   </tr>
 </table>
 
-<h2 align="center" >Acknowledgments</h2>
-<table  align="center">
+<h2 align="left" >Acknowledgments</h2>
+<table  align="left">
   <tr>
     <th>Name</th>
     <th>GitHub Profile</th>
