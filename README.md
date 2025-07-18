@@ -83,4 +83,5 @@ To address our research objectives, we employed a combination of exploratory dat
 ![Seaborn](https://img.shields.io/badge/Seaborn-2D8CB0?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-
+### License
+This project is licensed under the [MIT License](./LICENSE).
