@@ -74,5 +74,6 @@ To address our research objectives, we employed a combination of exploratory dat
   </tr>
 </table> 
 <br>
-### License
+
+## License
 This project is licensed under the [MIT License](./LICENSE).
